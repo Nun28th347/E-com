@@ -1,0 +1,12 @@
+# install tailwind next node yarn
+
+#   axios = ไลบรารีของ JavaScript ที่ใช้สำหรับการทำ HTTP requests จาก node.js หรือจากเบราว์เซอร์. มันเป็นที่นิยมใช้ในการพัฒนาเว็บแอปพลิเคชันเพื่อเรียกใช้ API หรือเพื่อทำการติดต่อสื่อสารกับเซิร์ฟเวอร์
+#   ,เป็น library ใน JavaScript สำหรับทำ HTTP requests
+#   await =  JavaScript Asynchronous Programming ที่ใช้ร่วมกับ async function เพื่อรอให้ Promise ถูกตอบกลับมา (resolve หรือ reject)
+#   ,ใช้รอให้ Promise จบการทำงานในฟังก์ชันที่มี async ก่อนจะทำขั้นตอนถัดไป
+
+
+;   
+
+# libary
+#  yarn:  multipaty , react-spinners []  , @aws-sdk/client-s3 , mime-types
